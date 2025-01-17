@@ -14,6 +14,10 @@ config/name="Galaxian"
 config/features=PackedStringArray("4.3", "Mobile")
 config/icon="res://icon.svg"
 
+[dotnet]
+
+project/assembly_name="Galaxian"
+
 [rendering]
 
 renderer/rendering_method="mobile"
